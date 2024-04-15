@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Youtube ReVanced Latest Magisk Module
+date: 2024-04-14
 lang: eng
 tagline: Magisk
 ---
